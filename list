@@ -1,0 +1,1 @@
+# Markdown doesn't natively support underlined words. Words can be underlined using HTML command `<ins>underlined text</ins>`, however it is unadvisable  to do so to avoid confusion.
